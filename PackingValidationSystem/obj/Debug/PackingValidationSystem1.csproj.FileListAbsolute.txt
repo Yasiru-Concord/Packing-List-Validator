@@ -1,0 +1,259 @@
+C:\New folder\VisualStudio\New folder\PackingValidationSystem\PackingValidationSystem\bin\Debug\PackingValidationSystem.exe.config
+C:\New folder\VisualStudio\New folder\PackingValidationSystem\PackingValidationSystem\bin\Debug\PackingValidationSystem.exe
+C:\New folder\VisualStudio\New folder\PackingValidationSystem\PackingValidationSystem\bin\Debug\PackingValidationSystem.pdb
+C:\New folder\VisualStudio\New folder\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem1.csproj.AssemblyReference.cache
+C:\New folder\VisualStudio\New folder\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_Customer.resources
+C:\New folder\VisualStudio\New folder\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.frm_customer_details.resources
+C:\New folder\VisualStudio\New folder\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_Main.resources
+C:\New folder\VisualStudio\New folder\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_PO.resources
+C:\New folder\VisualStudio\New folder\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_Style.resources
+C:\New folder\VisualStudio\New folder\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.Properties.Resources.resources
+C:\New folder\VisualStudio\New folder\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem1.csproj.GenerateResource.cache
+C:\New folder\VisualStudio\New folder\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem1.csproj.CoreCompileInputs.cache
+C:\New folder\VisualStudio\New folder\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.exe
+C:\New folder\VisualStudio\New folder\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.pdb
+C:\New folder\VisualStudio\New folder\PackingValidationSystem\PackingValidationSystem\bin\Debug\System.Data.SqlClient.dll
+C:\New folder\VisualStudio\New folder\PackingValidationSystem\PackingValidationSystem\bin\Debug\System.Data.SqlClient.xml
+C:\New folder\VisualStudio\New folder\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingV.62C4AA79.Up2Date
+C:\Users\USER\Desktop\PackingValidationSystem\PackingValidationSystem\bin\Debug\PackingValidationSystem.exe
+C:\Users\USER\Desktop\PackingValidationSystem\PackingValidationSystem\bin\Debug\PackingValidationSystem.exe.config
+C:\Users\USER\Desktop\PackingValidationSystem\PackingValidationSystem\bin\Debug\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\PackingValidationSystem\PackingValidationSystem\bin\Debug\System.Data.SqlClient.xml
+C:\Users\USER\Desktop\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_Customer.resources
+C:\Users\USER\Desktop\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_Main.resources
+C:\Users\USER\Desktop\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_PO.resources
+C:\Users\USER\Desktop\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_Style.resources
+C:\Users\USER\Desktop\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.NewCustomer.resources
+C:\Users\USER\Desktop\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.Properties.Resources.resources
+C:\Users\USER\Desktop\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingV.62C4AA79.Up2Date
+C:\Users\USER\Desktop\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.exe
+C:\Users\USER\Desktop\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.pdb
+C:\Users\USER\Desktop\PackingValidationSystem\PackingValidationSystem\bin\Debug\PackingValidationSystem.pdb
+C:\Users\USER\Desktop\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_PODetails.resources
+C:\Users\USER\Desktop\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_PackingList.resources
+C:\Users\USER\Desktop\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_PackingListDetails.resources
+C:\Users\USER\Desktop\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.frmCusDetails.resources
+C:\Users\USER\Desktop\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_CusDetails.resources
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\PackingValidationSystem.exe.config
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\PackingValidationSystem.exe
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\PackingValidationSystem.pdb
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\System.Data.SqlClient.xml
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\obj\Debug\SmartPacker.Frm_Factory.resources
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\obj\Debug\SmartPacker.Frm_New_Style.resources
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_CusDetails.resources
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_Customer.resources
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_Main.resources
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_PackingList.resources
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_PackingListDetails.resources
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_PO.resources
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_PODetails.resources
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_ScanPkList.resources
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_Style.resources
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\obj\Debug\SmartPacker.Frm_Styles.resources
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.NewCustomer.resources
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Properties.Resources.resources
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\obj\Debug\PackingV.62C4AA79.Up2Date
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.exe
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.pdb
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\ClosedXML.dll
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\ClosedXML.Parser.dll
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\ExcelNumberFormat.dll
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\RBush.dll
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\SixLabors.Fonts.dll
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\System.Buffers.dll
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\System.Memory.dll
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\ClosedXML.pdb
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\ClosedXML.xml
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\ClosedXML.Parser.xml
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\ExcelNumberFormat.xml
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\RBush.xml
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\SixLabors.Fonts.xml
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\System.Buffers.xml
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\System.Memory.xml
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem1.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\PackingValidationSystem - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.exe.config
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\PackingValidationSystem.exe.config
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\PackingValidationSystem.exe
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\PackingValidationSystem.pdb
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\ClosedXML.dll
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\ClosedXML.Parser.dll
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\ExcelNumberFormat.dll
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\RBush.dll
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\SixLabors.Fonts.dll
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\System.Buffers.dll
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\System.Memory.dll
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\ClosedXML.pdb
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\ClosedXML.xml
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\ClosedXML.Parser.xml
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\ExcelNumberFormat.xml
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\RBush.xml
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\SixLabors.Fonts.xml
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\System.Buffers.xml
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\System.Data.SqlClient.xml
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\System.Memory.xml
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\obj\Debug\PackingValidationSystem1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\obj\Debug\PackingValidationSystem1.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\obj\Debug\PackingValidationSystem.exe.config
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\obj\Debug\SmartPacker.Frm_Factory.resources
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\obj\Debug\SmartPacker.Frm_New_Style.resources
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\obj\Debug\PackingValidationSystem.FrmLogin.resources
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\obj\Debug\PackingValidationSystem.FrmUserRegister.resources
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_CusDetails.resources
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_Customer.resources
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_Main.resources
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_New_Factory.resources
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_PackingList.resources
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_PackingListDetails.resources
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_PKListView.resources
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_PO.resources
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_PODetails.resources
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_ScanPkList.resources
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_Style.resources
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\obj\Debug\SmartPacker.Frm_Styles.resources
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\obj\Debug\PackingValidationSystem.NewCustomer.resources
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\obj\Debug\PackingValidationSystem.Properties.Resources.resources
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\obj\Debug\PackingValidationSystem1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\obj\Debug\PackingValidationSystem1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\obj\Debug\PackingV.62C4AA79.Up2Date
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\obj\Debug\PackingValidationSystem.exe
+C:\Users\USER\Desktop\PKList\PackingValidationSystem\obj\Debug\PackingValidationSystem.pdb
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\PackingValidationSystem.exe.config
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\PackingValidationSystem.exe
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\PackingValidationSystem.pdb
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\ClosedXML.dll
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\ClosedXML.Parser.dll
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\ExcelNumberFormat.dll
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\RBush.dll
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\SixLabors.Fonts.dll
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\System.Buffers.dll
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\System.Memory.dll
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\ClosedXML.pdb
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\ClosedXML.xml
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\ClosedXML.Parser.xml
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\ExcelNumberFormat.xml
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\RBush.xml
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\SixLabors.Fonts.xml
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\System.Buffers.xml
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\System.Data.SqlClient.xml
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\System.Memory.xml
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem1.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.exe.config
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\obj\Debug\SmartPacker.Frm_Factory.resources
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\obj\Debug\SmartPacker.Frm_New_Style.resources
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.FrmLogin.resources
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.FrmUserRegister.resources
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_CusDetails.resources
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_Customer.resources
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_Main.resources
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_New_Factory.resources
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_PackingList.resources
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_PackingListDetails.resources
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_PKListView.resources
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_PO.resources
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_PODetails.resources
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_ScanPkList.resources
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_Style.resources
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\obj\Debug\SmartPacker.Frm_Styles.resources
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.NewCustomer.resources
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Properties.Resources.resources
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\obj\Debug\PackingV.62C4AA79.Up2Date
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.exe
+C:\Users\USER\Desktop\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.pdb
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\PackingValidationSystem.exe.config
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\PackingValidationSystem.exe
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\PackingValidationSystem.pdb
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\ClosedXML.dll
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\ClosedXML.Parser.dll
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\DocumentFormat.OpenXml.dll
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\ExcelNumberFormat.dll
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\RBush.dll
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\SixLabors.Fonts.dll
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\System.Buffers.dll
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\System.Data.SqlClient.dll
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\System.Memory.dll
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\ClosedXML.pdb
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\ClosedXML.xml
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\ClosedXML.Parser.xml
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\DocumentFormat.OpenXml.xml
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\ExcelNumberFormat.xml
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\RBush.xml
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\SixLabors.Fonts.xml
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\System.Buffers.xml
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\System.Data.SqlClient.xml
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\System.Memory.xml
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\System.Numerics.Vectors.xml
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem1.csproj.AssemblyReference.cache
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem1.csproj.SuggestedBindingRedirects.cache
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.exe.config
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\obj\Debug\SmartPacker.Frm_Factory.resources
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\obj\Debug\SmartPacker.Frm_New_Style.resources
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.FrmLogin.resources
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.FrmUserRegister.resources
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_CusDetails.resources
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_Customer.resources
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_Main.resources
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_New_Factory.resources
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_PackingList.resources
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_PackingListDetails.resources
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_PKListView.resources
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_PO.resources
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_PODetails.resources
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_ScanPkList.resources
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_Style.resources
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\obj\Debug\SmartPacker.Frm_Styles.resources
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.NewCustomer.resources
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.Properties.Resources.resources
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem1.csproj.GenerateResource.cache
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem1.csproj.CoreCompileInputs.cache
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\obj\Debug\PackingV.62C4AA79.Up2Date
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.exe
+D:\2025-01-24\Packing List System\PKList - Copy\PackingValidationSystem\obj\Debug\PackingValidationSystem.pdb

@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\PackingValidationSystem\PackingValidationSystem\bin\Debug\PackingValidationSystem.exe.config
+C:\Users\USER\source\repos\PackingValidationSystem\PackingValidationSystem\bin\Debug\PackingValidationSystem.exe
+C:\Users\USER\source\repos\PackingValidationSystem\PackingValidationSystem\bin\Debug\PackingValidationSystem.pdb
+C:\Users\USER\source\repos\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_Customer.resources
+C:\Users\USER\source\repos\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.Properties.Resources.resources
+C:\Users\USER\source\repos\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.exe
+C:\Users\USER\source\repos\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.pdb
+C:\Users\USER\source\repos\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_Main.resources
+C:\Users\USER\source\repos\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_Style.resources
+C:\Users\USER\source\repos\PackingValidationSystem\PackingValidationSystem\obj\Debug\PackingValidationSystem.Frm_PO.resources
