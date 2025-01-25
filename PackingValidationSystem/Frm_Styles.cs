@@ -219,12 +219,14 @@ namespace SmartPacker
             label6.Visible = true;
             label7.Visible = true;
 
-
-            if (e.RowIndex >= 0) 
+            if (e.RowIndex >= 0)
             {
-                
+             
                 if (grdExistStyles.Columns[e.ColumnIndex].Name == "Delete")
                 {
+               
+                    DataGridViewRow rowToDelete = grdExistStyles.Rows[e.RowIndex];
+
                     var result = MessageBox.Show(
                         "Are you sure you want to delete this data set?",
                         "Confirm Deletion",
@@ -234,29 +236,35 @@ namespace SmartPacker
 
                     if (result == DialogResult.Yes)
                     {
+    
+                        string colourCode = rowToDelete.Cells["ColourCode"].Value?.ToString() ?? string.Empty;
+                        string colourName = rowToDelete.Cells["ColourName"].Value?.ToString() ?? string.Empty;
+                        string size = rowToDelete.Cells["Size"].Value?.ToString() ?? string.Empty;
+                        string ean = rowToDelete.Cells["EAN"].Value?.ToString() ?? string.Empty;
+
                         grdExistStyles.Rows.RemoveAt(e.RowIndex);
 
-                        DeleteRecordFromDatabase(txtColourCode.Text, txtColourName.Text, txtSize.Text, txtEAN.Text);
-                        return; 
+
+                        DeleteRecordFromDatabase(colourCode, colourName, size, ean);
+                        return;
                     }
                 }
 
-               
+
                 foreach (DataGridViewRow row in grdExistStyles.Rows)
                 {
                     row.DefaultCellStyle.BackColor = Color.White;
                 }
 
+
                 grdExistStyles.Rows[e.RowIndex].DefaultCellStyle.BackColor = Color.Red;
 
-               
+
                 DataGridViewRow selectedRow = grdExistStyles.Rows[e.RowIndex];
                 txtColourCode.Text = selectedRow.Cells["ColourCode"].Value?.ToString() ?? string.Empty;
                 txtColourName.Text = selectedRow.Cells["ColourName"].Value?.ToString() ?? string.Empty;
                 txtSize.Text = selectedRow.Cells["Size"].Value?.ToString() ?? string.Empty;
                 txtEAN.Text = selectedRow.Cells["EAN"].Value?.ToString() ?? string.Empty;
-
-
             }
         }
         private void DeleteRecordFromDatabase(string code, string name, string size, string ean)
